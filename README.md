@@ -1,4 +1,4 @@
-# VCP-CLIP: (ECCV 2024 accepted)
+# VCP-CLIP: (Accepted in ECCV 2024)
 
 VCP-CLIP: A visual context prompting model for zero-shot anomaly segmentation
 
