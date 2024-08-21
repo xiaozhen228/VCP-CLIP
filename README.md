@@ -85,7 +85,7 @@ path2
 The format of the standardized datasets is as follows:
 
 ```
-./datasets/mvisa/data
+./dataset/mvisa/data
 ├── visa
     ├── candle
         ├── train
@@ -113,6 +113,8 @@ The format of the standardized datasets is as follows:
             ├── anomaly
                 ├── mvtec_broken_large_000209.png
 
+├── meta_mvtec.json
+├── meta_visa.json
 ```
 
 ## Run Experiments
