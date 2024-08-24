@@ -97,7 +97,7 @@ The format of the standardized datasets is as follows:
             ├── anomaly
                 ├── visa_000_001000.bmp
         ├── ground_truth
-            ├── anomaly1
+            ├── anomaly
                 ├── visa_000_001000.png
 ├── mvtec
     ├── bottle
