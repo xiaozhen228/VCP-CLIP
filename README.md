@@ -54,9 +54,13 @@ path1
                 ├── 000.png
             ├── anomaly1
                 ├── 000.png
+            ├── anomaly2
+                ├── 000.png
         ├── ground_truth
             ├── anomaly1
-                ├── 000.png
+                ├── 000_mask.png
+            ├── anomaly2
+                ├── 000_mask.png
 ```
 
 ```
