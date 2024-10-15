@@ -136,6 +136,9 @@ The format of the standardized datasets is as follows:
 
 > bash test.sh
 
+## Visualization results
+
+![wood1](figures/GIF_1.gif) ![wood1](figures/GIF_2.gif) ![wood1](figures/GIF_3.gif) ![wood1](figures/GIF_4.gif) ![wood1](figures/GIF_5.gif) ![wood1](figures/GIF_6.gif)
 
 ## Citation
 Please cite the following paper if the code help your project:
